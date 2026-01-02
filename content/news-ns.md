@@ -9,7 +9,7 @@ Cover: /images/spine_cover1.png
 
 ##### Novi Sad, Serbia, October 23–26, 2025
 
-At the 11th Serbian Neurosurgical Society (SNSS) Annual Meeting — "Ethico-Legal Aspects of Neurosurgery in the 21st Century: Challenges and Opportunities" held in Novi Sad, Serbia (October 23–26, 2025) - **Professor Nenad Filipović** presented the latest work on patient-specific modeling of the spine using artificial intelligence and finite element methods on behalf on all three participating institutions: University of Kragujevac, Faculty of Medicine in Belgrade and University of Verona.
+At the 11th Serbian Neurosurgical Society (SNSS) Annual Meeting — "Ethico-Legal Aspects of Neurosurgery in the 21st Century: Challenges and Opportunities" held in Novi Sad, Serbia (October 23–26, 2025) - **Professor Nenad Filipović** presented the latest work on patient-specific modeling of the spine using artificial intelligence and finite element methods on behalf on all three participating institutions: University of Kragujevac, Faculty of Medicine in Belgrade and University of Verona. 
 
 ![Novi Sad November 2025](/images/novi-sad.jpeg)
 
