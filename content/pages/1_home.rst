@@ -29,7 +29,7 @@ Mechanical stress on the spinal cord, caused by degenerative pathology of the sp
 can lead to spinal cord injury. Vulnerability factors influence an individual's ability to resist such injury or
 develop symptoms as a result. Understanding these factors is crucial for effective management of DCM.
 **FEM (Finite Element Method) is being used to study spinal cord injury**, trauma, pathologic processes, and spine surgery.
-However, there is considerable variation in modeling parameters, anatomical structures, and inclusion of patient-specific data.
+However, there is considerable variation in modeling parameters, anatomical structures, and the inclusion of patient-specific data.
 Improving standardization and incorporating patient-specific data could enhance the clinical utility of FEM in understanding DCM
 and guiding treatment strategies.
 
@@ -37,10 +37,10 @@ About Project
 -----------------
 
 We will implement a large-scale finite element simulation on **High-Performance Computing (HPC)** systems using advanced continuum and
-discrete modeling techniques, to gain a deeper understanding of the biomechanical aspects of DCM. This could potentially lead to
+discrete modeling techniques to gain a deeper understanding of the biomechanical aspects of DCM. This could potentially lead to
 better treatment planning and optimization of surgical interventions. The combination of clinical, neurophysiological (perioperative
 nTMS and intraoperative neurophysiological monitoring) and high-resolution anatomical data, combined with FEM simulation and HPC,
-will allow to characterize in unprecedented ways the relationship between pathophysiological properties and clinical features
+will allow us to characterize in unprecedented ways the relationship between pathophysiological properties and clinical features
 of the myelopatic cord.
 
 Such characterization will have the potential to tailor surgical indications as well as refine prognostic factors, allowing the
