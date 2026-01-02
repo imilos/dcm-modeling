@@ -1,4 +1,4 @@
-AUTHOR = 'Milos Ivanovic'
+AUTHOR = 'DCM Modeling Project Participants'
 SITENAME = 'DCM Modeling Project'
 SITEURL = "https://dcm-modeling.kg.ac.rs/output"
 
@@ -59,7 +59,6 @@ INDEX_URL = 'index.html'
 
 SHOW_PAGES_ON_MENU = False
 
-SOCIAL = (('twitter', 'https://twitter.com/myprofile'),
-          ('github', 'https://github.com/myprofile'),
-          ('facebook','https://facebook.com/myprofile'),
+SOCIAL = (('twitter', 'https://twitter.com'),
+          ('github', 'https://github.com/imilos'),
           ('envelope','mailto:milos.ivanovic@pmf.kg.ac.rs'))
