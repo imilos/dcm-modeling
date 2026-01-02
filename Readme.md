@@ -14,3 +14,8 @@ pip install git+https://github.com/arulrajnet/attila.git@master
 pelican content
 pelican --listen
 ```
+
+## Deploy
+By employing GitHub Actions, the site is directly deployed to the server, whether 
+[https://dcm-modeling.kg.ac.rs](https://dcm-modeling.kg.ac.rs) or 
+[https://dcmodeling.kg.ac.rs](https://dcmodeling.kg.ac.rs).
