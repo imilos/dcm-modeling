@@ -1,5 +1,8 @@
-DCM Modeling
-================
+DCM Modeling Project
+========================
+
+Degenerative cervical myelopathy: Treatment implementation through perioperative neurophysiology, simulation, and modelling with AI integration
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 :tags: pelican, rst, documentation
 :slug: home
