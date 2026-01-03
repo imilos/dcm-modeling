@@ -28,6 +28,7 @@ University of Kragujevac
 Full Professor of the Faculty of Medicine  
 University of Belgrade
 
+![Tijana Geroski](/images/tijana.jpeg){width=200}
 [Tijana Geroski](https://fin.kg.ac.rs/sr/zaposleni/nastavnici/97-zaposleni/nastavnici/kat-prim-meh-aut-upr/607-tijana-geroski)
 Assistant Professor of the Faculty of Engineering  
 University of Kragujevac
