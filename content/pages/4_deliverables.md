@@ -2,6 +2,8 @@ Title: Deliverables
 Date: 2025-01-15
 Slug: deliverables
 
+![Work Package Gantt Schema](/images/wp-gantt-schema.png){width=700}
+
 #### WP1 – Research and Analysis. (M1 – M12)
 
 - D1.1: Analysis of the state-of-the art in the domains of interest (report). M6 [download](/images/D1.1-SOTA-DCM-Modeling-1.pdf)
