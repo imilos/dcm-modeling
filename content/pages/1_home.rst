@@ -1,9 +1,6 @@
 DCM Modeling Project
 ========================
 
-Degenerative cervical myelopathy: Treatment implementation through perioperative neurophysiology, simulation, and modelling with AI integration
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 :tags: pelican, rst, documentation
 :slug: home
 :authors: Milos Ivanovic
@@ -11,6 +8,9 @@ Degenerative cervical myelopathy: Treatment implementation through perioperative
 :cover: /images/spine_cover1.png
 :save_as: index.html
 :url: /
+
+Degenerative cervical myelopathy: Treatment implementation through perioperative neurophysiology, simulation, and modelling with AI integration
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Degenerative Cervical Myelopathy (DCM)** is a major cause of disability for many patients. It involves degenerative changes in
 the spinal column that can lead to compression of the spinal cord, resulting in neurological symptoms and disability.
