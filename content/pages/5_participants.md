@@ -4,6 +4,7 @@ Slug: participants
 
 ## PI in Italy
 
+![Francesco Sala](/images/francesco-sala.png){width=200}
 [Francesco Sala](https://www.eans.org/page/FrancescoSala-Bio)  
 Full Professor of Neurosurgery  
 University of Verona
@@ -22,6 +23,7 @@ University of Kragujevac
 
 ## Serbian Project members
 
+![Lukas Rasulić](/images/Lukas_Rasulic.jpg){width=200}
 [Lukas Rasulić](https://www.eans.org/page/LukasRasulic-Bio)
 Full Professor of the Faculty of Medicine  
 University of Belgrade
