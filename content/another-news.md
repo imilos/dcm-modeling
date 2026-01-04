@@ -1,15 +1,15 @@
-Title: University of Kragujevac Team Visits Verona for "DCM Modeling" Project Collaboration
+Title: University of Kragujevac Team Visits University Hospital in Verona
 Date: 2025-12-31
 Category: news
 Slug: another-news
 Cover: /images/spine_cover1.png
 Status: published
 
-#### University of Kragujevac Team Visits Verona for "DCM Modeling" Project Collaboration
+#### University of Kragujevac Team Visits University Hospital in Verona
 
-Members of the University of Kragujevac visited the University Hospital in Verona, Italy, from December 28th to December 30th, 2025. 
+Members of the University of Kragujevac visited the University Hospital in Verona, Italy, from December 28 to 30, 2025. 
 
-The primary objective of the exchange was to harmonize clinical procedures and discuss the integration of machine learning (ML) and the finite element method (FEM) into active clinical practice. These computational frameworks are fundamental to the project's goal of developing patient-specific simulations capable of predicting surgical outcomes and optimizing individualized treatment strategies.
+The primary objective of the exchange was to harmonize clinical procedures and discuss the integration of machine learning (ML) and the finite element method (FEM) into active clinical practice. These computational frameworks are essential to the project's goal of developing patient-specific simulations that can predict surgical outcomes and optimize individualized treatment strategies.
 
 <div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin: 20px 0;">
     <img src="images/VeronaVisit1.jpg" alt="Verona Dinner 1" style="height: 375px; width: auto;" />
