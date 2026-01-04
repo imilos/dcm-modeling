@@ -1,16 +1,10 @@
-Title: Another News Article
-Date: 2025-01-16
+Title: University of Kragujevac Team Visits Verona for "DCM Modeling" Project Collaboration
+Date: 2025-12-31
 Category: news
 Slug: another-news
 Cover: /images/spine_cover1.png
-Status: hidden
+Status: published
 
-#### New Development in DCM Modeling
+#### University of Kragujevac Team Visits Verona for "DCM Modeling" Project Collaboration
 
-We have made significant progress in our research. The team has successfully integrated new AI models for better spine segmentation.
-
-##### Details
-
-The new models provide higher accuracy in identifying spinal structures from MRI scans. This advancement will improve the overall FEM simulations.
-
-Stay tuned for more updates!
+A part of team from the University of Kragujevac recently visited the University Hospital in Verona, Italy, as part of the strategic project "Degenerative cervical myelopathy: Treatment implementation through perioperative neurophysiology, simulation and modelling with AI integration (DCM Modeling)". The purpose of the visit was to align on clinical procedures and discuss application of machine learning and finite element method in clinical practice. These computational techniques are required for creating patient-specific simulations that predict surgical outcomes and optimize treatment strategies. The hosts from Verona, Prof. Dr. Francesco Sala and Dr. Alessandro Boaro, presented their navigated transcranial magnetic stimulation (nTMS) device and patient evaluation protocol for surgically treated degenerative compressive cervical myelopathy. This type of collaboration is essential for standardizing data collection at both clinical locations and ensuring consistency in the project's multi-step methodology, which integrates clinical, neurophysiological, radiological, and computational disciplines.
