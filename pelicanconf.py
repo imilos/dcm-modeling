@@ -1,6 +1,6 @@
 AUTHOR = 'DCM Modeling Project Participants'
 SITENAME = 'DCM Modeling Project'
-SITEURL = "https://dcm-modeling.kg.ac.rs/output"
+SITEURL = "https://dcm-modeling.kg.ac.rs"
 
 PATH = "content"
 
