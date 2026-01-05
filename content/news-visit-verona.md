@@ -1,7 +1,7 @@
 Title: University of Kragujevac Team Visits University Hospital in Verona
 Date: 2025-12-31
 Category: news
-Slug: another-news
+Slug: visit-verona
 Cover: /images/spine_cover1.png
 Status: published
 
