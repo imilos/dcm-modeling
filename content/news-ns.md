@@ -1,4 +1,4 @@
-Title: Participation at 11th Serbian Neurosurgical Society
+Title: Participation at the 11th Serbian Neurosurgical Society
 Date: 2025-01-15
 Slug: novi-sad-2025
 Category: news
