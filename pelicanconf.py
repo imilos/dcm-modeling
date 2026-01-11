@@ -61,4 +61,5 @@ SHOW_PAGES_ON_MENU = False
 
 SOCIAL = (('twitter', 'https://twitter.com'),
           ('github', 'https://github.com/imilos/dcm-modeling'),
-          ('envelope','mailto:milos.ivanovic@pmf.kg.ac.rs'))
+          ('linkedin', 'https://www.linkedin.com/in/dcm-modeling-project-9256153a5/'),
+          ('envelope','mailto:dcmmodelling@kg.ac.rs'))
