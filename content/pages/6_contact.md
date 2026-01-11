@@ -6,4 +6,4 @@ Slug: contact
 Faculty of Science  
 University of Kragujevac  
 Serbia  
-email: mivanovic@kg.ac.rs
+Official email: **dcmmodelling@kg.ac.rs**
