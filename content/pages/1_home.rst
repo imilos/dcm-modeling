@@ -46,6 +46,9 @@ nTMS and intraoperative neurophysiological monitoring) and high-resolution anato
 will allow us to characterize in unprecedented ways the relationship between pathophysiological properties and clinical features
 of the myelopatic cord.
 
+.. image:: /images/dcm modelling 2 rectified.png  
+   :align: center
+
 Such characterization will have the potential to tailor surgical indications as well as refine prognostic factors, allowing the
 personalization of both the diagnostic and therapeutic approach to patients affected by cervical myelopathy.
 Overall, the integration of advanced computational modeling techniques with clinical data holds promise for **improving the
