@@ -17,15 +17,11 @@ the spinal column that can lead to compression of the spinal cord, resulting in 
 The prevalence of DCM in Europe is estimated to be present in **up to 5% of the general population**.
 DCM has a remarkable impact on public health.
 
-.. table::
-
-   +-----------------------------------+------------------------------+
-   | .. image:: /images/1.png          | .. image:: /images/2.jpg     |
-   |    :alt: Model of a spine,        |    :alt: Spine profile       |
-   |      ribcage and pelvis used to   |    :width: 250               |
-   |      predict responses to lumbar  |                              |
-   |    :width: 400                    |                              |
-   +-----------------------------------+------------------------------+
+.. list-table::
+   :widths: 400 250
+   :align: left
+   * - .. image:: /images/1.png
+     - .. image:: /images/2.jpg
 
 
 Mechanical stress on the spinal cord, caused by degenerative pathology of the spinal column, combined with time,
