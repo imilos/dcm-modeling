@@ -20,13 +20,13 @@ DCM has a remarkable impact on public health.
 .. table::
    :align: left
 
-   +-----------------------------------+--------------------------+
-   | .. image:: /images/1.png          | .. image:: /images/2.jpg |
-   |    :alt: Model of a spine,        |    :alt: Spine profile   |
-   |      ribcage and pelvis used to   |    :width: 250           |
-   |      predict responses to lumbar  |                          |
-   |    :width: 400                    |                          |
-   +-----------------------------------+--------------------------+
+   +-----------------------------------+-----------------------+
+   | .. image:: /images/1.png          | .. image:: /images/2.jpg|
+   |    :alt: Model of a spine,        |    :alt: Spine profile|
+   |      ribcage and pelvis used to   |    :width: 250        |
+   |      predict responses to lumbar  |                       |
+   |    :width: 400                    |                       |
+   +-----------------------------------+-----------------------+
 
 
 Mechanical stress on the spinal cord, caused by degenerative pathology of the spinal column, combined with time,
