@@ -46,7 +46,7 @@ nTMS and intraoperative neurophysiological monitoring) and high-resolution anato
 will allow us to characterize in unprecedented ways the relationship between pathophysiological properties and clinical features
 of the myelopatic cord.
 
-.. image:: /images/dcm modelling 2 rectified.png  
+.. image:: /images/dmc-modelling2rectified.png  
    :align: center
 
 Such characterization will have the potential to tailor surgical indications as well as refine prognostic factors, allowing the
