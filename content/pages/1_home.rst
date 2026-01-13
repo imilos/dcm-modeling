@@ -48,6 +48,7 @@ of the myelopatic cord.
 
 .. image:: /images/dmc-modelling2rectified.png  
    :align: center
+   :height: 400px
 
 Such characterization will have the potential to tailor surgical indications as well as refine prognostic factors, allowing the
 personalization of both the diagnostic and therapeutic approach to patients affected by cervical myelopathy.
