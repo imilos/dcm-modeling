@@ -47,15 +47,15 @@ University of Kragujevac
 
 ![Lazar Dašić](/images/LazarDasic.jpg){width=200}
 [Lazar Dašić](https://iit.ac.rs/%d0%bb%d0%b0%d0%b7%d0%b0%d1%80-%d0%b4%d0%b0%d1%88%d0%b8%d1%9b/)
-Research Assistant  
+Research Assistant at Institute for Information Technologies   
 University of Kragujevac
 
 ![Ognjen Pavić](/images/OgnjenPavic.jpg){width=200}
 [Ognjen Pavić](https://iit.ac.rs/%d0%be%d0%b3%d1%9a%d0%b5%d0%bd-%d0%bf%d0%b0%d0%b2%d0%b8%d1%9b/) 
-Research Assistant  
+Research Assistant at Institute for Information Technologies   
 University of Kragujevac
 
 ![Anđela Blagojević](/images/A_Blagojevic.jpg){width=200}
 [Anđela Blagojević](https://fin.kg.ac.rs/sr/zaposleni/istrazivaci/1205-andjela-blagojevic)
-Research Assistant  
+Research Assistant of the Faculty of Engineering   
 University of Kragujevac
