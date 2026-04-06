@@ -2,7 +2,7 @@ Title: Call for Papers: AAI2026 – Join Us in Shaping the Future of Applied Art
 Date: 2026-4-4
 Category: news
 Slug: aai-2026
-Cover: /images/aai2026.jpg
+Cover: /images/spine_cover1.png
 Status: published
 
 Call for Papers: AAI2026 – Join Us in Shaping the Future of Applied Artificial Intelligence!
